@@ -1,0 +1,10 @@
+# VS Code
+.vs
+.vscode
+
+# Build artifacts
+build/
+bld/
+out/
+target/
+bin/
